@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date:30.11.2024
-#/# Register Number:24900963
+## Register Number:24900963
 ## Name:Pooja P
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
