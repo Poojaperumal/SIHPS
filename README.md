@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01.12.2024
+## Register Number:24900920
+## Name:R.R.Yazhini
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,49 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Alumni Profiles: Create detailed profiles for alumni to showcase their career, education, and achievements, making it easy for others to connect.
+
+2.Networking Opportunities: Enable alumni to search for and connect with others based on location, industry, or graduation year.
+
+3.Mentorship Program: Facilitate connections between experienced alumni and current students or recent graduates for career guidance and advice.
+
+4.Event Organization: Allow alumni to discover and RSVP to reunions, webinars, and networking events, both online and in-person.
+
+5.Job Board: Provide a space where alumni can post and find job opportunities, internships, and career development resources.
+
+
+
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-12-01 135342](https://github.com/user-attachments/assets/c5361261-08e0-41c4-bbc2-70892a7f123f)
 
 
 ## Use Cases
 
+![php9ohdOk](https://github.com/user-attachments/assets/2c53ac16-6baa-4d17-833a-94f776cc44f7)
+
 
 ## Technology Stack
+Containers: Docker, Kubernetes.
+Cloud Providers: AWS, Azure, Google Cloud.
+CI/CD Tools: Jenkins, GitHub Actions, GitLab CI.
+Version Control:
 
+Git: Distributed version control.
+GitHub/GitLab/Bitbucket: Platforms for hosting Git repositories.
+APIs:
+
+RESTful APIs: Standard for building web services.
+GraphQL: Query language for APIs.
+Security:
+
+SSL/TLS: Secure connections.
+OAuth: Authentication protocol.
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 15 days
+
+budget- rs.50,000
